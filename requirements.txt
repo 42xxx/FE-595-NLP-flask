@@ -1,6 +1,6 @@
 flask
 pandas
-vanderSentiment
+vaderSentiment
 nltk
 string
 collections
